@@ -1,6 +1,6 @@
 const reverseString = function(str) {
   const arrayStr = str.split("");
-  cnst reverseArray = arrayStr.reverse();
+  const reverseArray = arrayStr.reverse();
   const joinArray = reverseArray.join("")
 
   return joinArray
